@@ -160,6 +160,9 @@ body {
     justify-content: center;
     align-items: center;
   }
+  .icon{
+    font-size: 24px;
+  }
   
   .icon:hover{
     color: #2de26d;
